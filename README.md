@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Shady Abdallah
 
-### Flutter Developer • Clean Architecture Enthusiast • Building Mobile Experiences
+### Flutter Developer • Building Mobile Experiences
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=02A9F4&center=true&vCenter=true&width=550&lines=Flutter+Developer+%F0%9F%93%B1;Clean+Architecture+Enthusiast+%F0%9F%8F%97%EF%B8%8F;BLoC+%7C+Cubit+%7C+Riverpod+%7C+Provider;Turning+Ideas+Into+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 
