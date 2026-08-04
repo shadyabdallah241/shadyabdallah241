@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Shady Abdallah
+# 👋 Hi, I'm Shady Abdallah Nasr
 
 ### Flutter Developer • Building Mobile Experiences
 
